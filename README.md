@@ -23,7 +23,7 @@ Output : Yes
 
 Reading the input data like `row` and `column` , example:
 
-```
+```shell
 	   0		  1			 2		   3		   4
 0  (r0, c0:0)  (r0,c1:0)  (r0,c2:0)  (r0,c3:-1)  (r0,c4:0)
 1  (r1, c0:-1) (r1,c1:0)  (r1,c2:0)  (r1,c3:-1)  (r1,c4:-1)
