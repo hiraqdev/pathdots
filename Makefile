@@ -1,5 +1,5 @@
 tidy:
 	go mod tidy
 
-test:
+test: tidy
 	go test -race -v ./core/...  
